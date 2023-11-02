@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Devashish Yadav</h1>
 <h3 align="center">A passionate Experienced Android Developer with 3 years, hands-on experience in Java and Kotlin. Highly skilled in MVVM, UI/UX design, and API integration. Delivered 6+ applications using Clean Architecture</h3>
 
-- 🔭 I’m currently working on **Finance App**
+- 🔭 I’m currently working as **Android Developer**
 
 - 🌱 I’m currently learning **MVVM,, Hilt Dependency Injection, Room DB, Coroutines**
 
